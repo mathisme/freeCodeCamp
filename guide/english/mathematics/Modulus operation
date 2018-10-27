@@ -1,0 +1,7 @@
+In Mathematics, modulus is an operation that returns the remainder when one number is divided by another. 
+Often denoted mod in mathematics.
+
+For example 8 (mod 2) equals 0 as the remainder when 8 is divided by 2 is 0.
+Another example, 8 (mod 5) is equal to 3 as the remainder when 8 is divided by 5 is 3.
+
+Programming languages often use the percent symbol, %, as the modulus operator.
