@@ -9,7 +9,7 @@ A sector is the portion of a circle enclosed by two radii and one arc, where the
 
 Minor sector shaded in green. 
 *L* is the arc length.
-*θ* is the angle in radians.
+*θ* is the angle in degrees.
 *r* is the radius.
 
 **The Area of a sector can be obtained by multiplying the circle's area by the ratio of the angle *(θ°)* and *2π (360°)* as follows**:
